@@ -1,0 +1,5 @@
+package crafty
+
+func LogOutAllSessions() {
+
+}
